@@ -1,2 +1,3 @@
-# data-science-with-python-
-prediction about our age,and prediction about room tent
+# data science project
+Body_mass_prediction
+room_rent_prediction
